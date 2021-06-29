@@ -1,8 +1,8 @@
-# SvelteKit PostCSS Starter
+# SvelteKit Bulma Starter
 
-A SvelteKit started with ESLint, Prettier, PostCSS, and Sass
+A SvelteKit started with ESLint, Prettier, PostCSS, Sass, and Bulma
 
-This is meant to serve as a quick starter to be either used as-is or to add another CSS framework (Bootstrap, Bulma, Tailwind, etc.) to your project with the smallest configuration possible 
+This is meant to serve as a quick starter to be used as-is with the smallest configuration possible. It also includes a sample navbar and footer for the main layout.
 
 ## Features
 
@@ -11,6 +11,7 @@ This is meant to serve as a quick starter to be either used as-is or to add anot
     - `cssnano` (Production only)
     - `purgecss` (Production only)
 - Sass (`dart-sass`)
+- Bulma (Version `0.9`)
 - Typescript support
 - Prettier for formatting
 - ESLint for linting
